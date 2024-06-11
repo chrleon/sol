@@ -1,0 +1,11 @@
+#system {
+    color: rgba(255, 255, 255, 255);
+    text-shadow: 0 0 0 rgba(0, 0, 0, 255);
+    -unity-text-outline-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    letter-spacing: 0;
+    -unity-font: url('project://database/Assets/TextMesh%20Pro/Fonts/LiberationSans.ttf?fileID=12800000&guid=e3265ab4bf004d28a9537516768c1c75&type=3#LiberationSans');
+}

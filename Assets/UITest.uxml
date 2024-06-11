@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI.uss?fileID=7433441132597879392&amp;guid=dcb5046333639448690141dbe8ef4533&amp;type=3#UI" />
+    <ui:Label text="Magellan Probe" display-tooltip-when-elided="true" picking-mode="Ignore" name="system" style="-unity-font-style: normal; font-size: 72px; flex-direction: column; bottom: 192px; position: absolute; left: 64px; height: 104px;" />
+</ui:UXML>
